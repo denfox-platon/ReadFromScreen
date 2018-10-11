@@ -1,0 +1,26 @@
+﻿<repository
+id="e49274c9-7c33-4e8b-a109-2973527253a9"
+name="ReadFromScreeenRepository"
+rxversion="8.1">
+	<codegen
+	classname="ReadFromScreeenRepository"
+	namespace="ReadFromScreeen">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="c29c181a-5096-4365-919c-4ce58bc9aac9"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+		<var
+		id="28bc372c-77ef-4f47-885d-2fd5c210ec08"
+		name="textFromScreen">
+			111222333
+		</var>
+	</variables>
+</repository>

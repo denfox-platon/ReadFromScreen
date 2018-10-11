@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.1">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="ReadFromScreeen"
+      id="4b875839-2982-4052-abcb-abe9f649e691"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="ReadFromScreeen"
+      id="4b875839-2982-4052-abcb-abe9f649e691"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
